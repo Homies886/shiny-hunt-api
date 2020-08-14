@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :captures
   resources :pokemons
   resources :games
   resources :users

@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pokeball: MyString
+  captured: 2020-08-13
+  user: one
+  pokemon: one
+
+two:
+  pokeball: MyString
+  captured: 2020-08-13
+  user: two
+  pokemon: two
